@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Teacher Salary Calculator</string>
+    <string name="select_professor_type">Selecione o tipo de professor:</string>
+    <string name="professor_titular">Professor Titular</string>
+    <string name="professor_horista">Professor Horista</string>
+    <string name="salary_hint">Salário Base (apenas para Titular)</string>
+    <string name="years_hint">Anos na Instituição (apenas para Titular)</string>
+    <string name="total_hours_hint">Total de Horas (apenas para Horista)</string>
+    <string name="hourly_rate_hint">Valor da Hora Aula (apenas para Horista)</string>
+    <string name="calculate_salary">Calcular Salário</string>
+</resources>
